@@ -1,0 +1,6 @@
+deepagents
+langchain-tavily
+rich
+LangChain
+LangChain-DeepSeek
+langgraph-cli
